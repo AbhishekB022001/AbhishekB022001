@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhishek bhardwaj
+- 👋 Hi, I’m Abhishek bhardwaj
 - 👀 I’m interested in java,html,css,C,C++,javascript,Mysql
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on project with someone 
